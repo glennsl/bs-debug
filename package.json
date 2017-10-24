@@ -6,9 +6,15 @@
     "build": "bsb -make-world",
     "start": "bsb -make-world -w"
   },
+  "description": "BuckleScript bindings to debug",
   "keywords": [
-    "BuckleScript"
+    "BuckleScript",
+    "debug"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reasonml-community/bs-debug.git"
+  },
   "license": "MIT",
   "dependencies": {
     "debug": "^3.1.0"
