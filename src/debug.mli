@@ -1,0 +1,1 @@
+external make : string -> ((string -> unit) [@bs]) = "debug" [@@bs.module]
