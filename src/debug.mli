@@ -1,1 +1,1 @@
-external make : string -> ((string -> unit) [@bs]) = "debug" [@@bs.module]
+external make : string -> (('a -> unit) [@bs]) = "debug" [@@bs.module]
