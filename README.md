@@ -1,6 +1,8 @@
 
 # bs-debug
 
+[DEPRECATED] in favor of [rebug](https://github.com/glennsl/rebug), a reimplementation that's more idiomatic and works much nicer.
+
 BuckleScript bindings to [debug](https://github.com/visionmedia/debug).
 
 ## Example
